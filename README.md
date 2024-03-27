@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @Zafrankhan1  
-- 👀 I’m interested in ...Full stack developer
-- 🌱 I’m currently learning ... NextJS, React 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi this is student Zafran Khan of panaverse cloud from last 6 month
+I have learned typeScript, javaScript;
+Currently learning Next JS
+ I am always striving to stay up-to-date with the latest technologies and industry trends, and I am dedicated to delivering high-quality solutions to my clients.
 
-<!---
-Zafrankhan1/Zafrankhan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
